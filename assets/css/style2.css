@@ -1,0 +1,12 @@
+.discos {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 15px;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
